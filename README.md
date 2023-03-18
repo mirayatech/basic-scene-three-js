@@ -1,6 +1,6 @@
 ## First three.js project 🎈
 
-By using three.js, I have been able to put together a simple red square (no bundler, no dependency, no modules, just an HTML file, and some JavaScript).
+By using three.js, I have been able to put together a simple blue square (no bundler, no dependency, no modules, just an HTML file, and some JavaScript).
 
 ### What I've learned:
 - the difference between WebGL & three.js
