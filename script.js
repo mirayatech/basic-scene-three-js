@@ -13,7 +13,7 @@ const scene = new THREE.Scene()
 // Object
 const cubeGeometry = new THREE.BoxGeometry(1, 1, 1)
 const cubeMaterial = new THREE.MeshBasicMaterial({
-    color: '#ff0000'
+    color: '#4281ED'
 })
 const cubeMesh = new THREE.Mesh(cubeGeometry, cubeMaterial)
 scene.add(cubeMesh)
