@@ -1,13 +1,11 @@
 ## First three.js project 🎈
 
-So far, it's different from just HTML and js files. Working with a whole bundler is very exciting.
+By using three.js, I have been able to put together a simple red square (no bundler, no dependency, no modules, just an HTML file, and some JavaScript).
 
 ### What I've learned:
-- how to create a group & add them to the scene
-- adding geometry into group
-- what a axes helper is and why we use them
-- changing cameras position
-- the Clock method and `getElapsedTime()`
-- creating animation with three.js
-- three.js combined with gsap 
+- the difference between WebGL & three.js
+- how to load three.js
+- how to create a scene, geometry, camera, ect.
+- how to render the scene
+
 
